@@ -1,9 +1,7 @@
-/* Problem Statement - Largest Mountain */
-
+// Largest Mountain
 
 #include <bits/stdc++.h>
 using namespace std;
-
 
 class Solution {
 public:
@@ -40,7 +38,6 @@ public:
         return count;
     }
 };
-
 
 int main()
 {
