@@ -3,6 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+
 class Solution{
   public:
     int countSubArrayProductLessThanK(const vector<int>& a, int n, long long k) {
