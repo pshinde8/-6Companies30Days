@@ -1,3 +1,5 @@
+// Count the subarrays having product less than k
+
 #include <bits/stdc++.h>
 using namespace std;
 
